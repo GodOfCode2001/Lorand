@@ -8,8 +8,8 @@ git commit -m "first commit"  //报错
 点击.git 找到config
 添加一下内容
 [user]
-email = 1275595551@qq.com
-name = GodofCode2001
+email = 使用github注册的邮箱
+name = 使用github的名字 GodofCode2001
 保存一下
 -------------------------------------
 git commit -m "first commit"
