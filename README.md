@@ -14,7 +14,7 @@ name = GodofCode2001
 -------------------------------------
 git commit -m "first commit"
 
-git remote add origin {{code页面的https}}
+git remote add origin {{code页面的code的https}}
 
 git push -u origin master
 
